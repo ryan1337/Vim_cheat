@@ -1,4 +1,5 @@
 h3
 { color: red; /* color h3 red */
-
+  font-family: cursive, fantasy; /* Affiche la police cursive ou fantasy selon la disponibilité */
+  
 }
