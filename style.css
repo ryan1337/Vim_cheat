@@ -8,7 +8,8 @@ h1
   text-align: center; /* centre le texte */
   opacity: 0.5;
   border: 2px black groove;
-
+  border-radius: 20px; 
+  box-shadow: 6px 6px 6px black;
 }
 
 p, ul
