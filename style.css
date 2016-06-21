@@ -3,9 +3,10 @@ h3, ol
   font-family: cursive, fantasy; /* Affiche la police cursive ou fantasy selon la disponibilité */
 }
 
-h2
+h1
 {
   text-align: center; /* centre le texte */
+  opacity: 0.7;
 
 }
 
