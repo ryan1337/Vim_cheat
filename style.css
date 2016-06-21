@@ -16,8 +16,7 @@ p, ul
 
 body
 {
-  background-image: url("back.jpg");
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
+  background-image: url("back.jpg"); /* Ajoute un background */
+  background-repeat: no-repeat; /* Annule la repetition du background */
+  background-size: cover; /* Extend the background */
 }
