@@ -28,13 +28,13 @@ nav
 {
   float: right;
   display: inline-block;
-  border: 3px red solid;
+  border: 3px black solid;
   border-radius: 20px;
 }
 
 a:hover
 {
-  color: red;
+  color: rgb(106, 0, 0);
 }
 
 .debut
@@ -48,6 +48,6 @@ a:hover
 
 a
 {
-  color: black;
+  color: red;
   font-family: "Comic Sans MS"
 }
