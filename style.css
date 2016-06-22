@@ -22,6 +22,10 @@ body
   background-image: url("back.jpg"); /* Ajoute un background */
   background-repeat: no-repeat; /* Annule la repetition du background */
   background-size: cover; /* Extend the background */
+  margin: 0px;
+  padding: 0px;
+
+
 }
 
 nav
@@ -52,6 +56,7 @@ a
   font-family: "Comic Sans MS"
 }
 
+
 @media all and(max-width: 1024px)
 {
   nav
@@ -78,5 +83,11 @@ a
     nav a:hover
     {
         border-bottom: :0
+    }
+
+    body
+    {
+      margin: 0px;
+      margin-left: 0px;
     }
 }
