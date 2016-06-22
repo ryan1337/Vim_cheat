@@ -8,7 +8,7 @@ h1
   text-align: center; /* centre le texte */
   opacity: 0.5;
   border: 2px black groove;
-  border-radius: 20px; 
+  border-radius: 20px;
   box-shadow: 6px 6px 6px black;
 }
 
@@ -22,4 +22,9 @@ body
   background-image: url("back.jpg"); /* Ajoute un background */
   background-repeat: no-repeat; /* Annule la repetition du background */
   background-size: cover; /* Extend the background */
+}
+
+nav
+{
+  float: right;
 }
