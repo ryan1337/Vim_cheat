@@ -1,6 +1,6 @@
 h3, ol
 { color: red; /* color h3 red */
-  font-family: cursive, fantasy; /* Affiche la police cursive ou fantasy selon la disponibilité */
+  font-family: Candal; /* Affiche la police cursive ou fantasy selon la disponibilité */
 }
 
 h1
@@ -24,8 +24,13 @@ body
   background-size: cover; /* Extend the background */
   margin: 0px;
   padding: 0px;
+  font-family: Candal;
 
+}
 
+ul
+{
+  font-family: Candal;
 }
 
 nav
@@ -53,7 +58,7 @@ a:hover
 a
 {
   color: red;
-  font-family: "Comic Sans MS"
+  font-family: Candal;
 }
 
 
