@@ -34,7 +34,7 @@ nav
 
 a:hover
 {
-
+  color: red;
 }
 
 .debut
@@ -44,4 +44,10 @@ a:hover
   right: 0px;
   bottom: 0px;
 
+}
+
+a
+{
+  color: black;
+  font-family: "Comic Sans MS"
 }
